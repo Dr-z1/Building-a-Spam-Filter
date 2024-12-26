@@ -1,54 +1,56 @@
-# Building-a-Spam-Filter
+# **Spam Filter Project**
 
-Single Page that Build a Spam Filter
-
-
-
-Building a Spam Filter Project
+## **Project Overview**
 
 
+#### This Project Is A **Spam Filter**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-This Website Was Built Using Free Code Camp instructions: Learn Regular Expressions by Building a Spam Filter
-
-
-
-Section: JavaScript Algorithms and Data Structures (Beta)
+#### The Primary Goal Is Learn Regular Expressions By Building A Spam Filter.
 
 
-
-Course Name: Learn Regular Expressions by Building a Spam Filter
-
+## **Course Details**
 
 
-Deatils:
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Spam Filter Project.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
 
-Regular expressions, often shortened to "regex" or "regexp", 
+## **Purpose**
 
+Regular Expressions, Often Shortened To "Regex" Or "Regexp", Are Patterns That Help Programmers Match, Search, And Replace Text. 
 
-Are patterns that help programmers match, search, and replace text. Regular expressions are powerful, 
+Regular Expressions Are Powerful, But Can Be Difficult To Understand Because They Use So Many Special Characters.  
 
-
-But can be difficult to understand because they use so many special characters.
-
-
-In this spam filter project, you'll learn about capture groups, positive lookaheads, negative lookaheads, and other techniques to match any text you want.
-
-
-
-Link:
-
-https://www.freecodecamp.org/
+In This Spam Filter Project, You'll Learn About Capture Groups, Positive Lookaheads, Negative Lookaheads, And Other Techniques To Match Any Text You Want.  
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **Acknowledgment**
 
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
+
+
+
 
 
